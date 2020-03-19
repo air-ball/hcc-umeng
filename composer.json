@@ -1,17 +1,17 @@
 {
-    "name": "zzl/umeng",
+    "name": "hcc/umeng",
     "description": "umeng for laravel",
     "keywords": [
         "laravel",
         "lumen",
         "umeng"
     ],
-    "homepage": "https://github.com/zhaolong06/laravel-umeng",
+    "homepage": "https://github.com/air-ball/hcc-umeng.git",
     "license": "MIT",
     "authors": [
         {
-            "name": "zhengzhaolong",
-            "email": "zhaolong0206@gmail.com"
+            "name": "hackerhcc",
+            "email": "hackerhcc@163.com"
         }
     ],
     "require": {
@@ -20,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Zzl\\Umeng\\": "src"
+            "hcc\\Umeng\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Zzl\\Umeng\\": "tests"
+            "hcc\\Umeng\\": "tests"
         }
     },
      "minimum-stability": "stable"
