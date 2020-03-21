@@ -20,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "hcc\\Umeng\\": "src"
+            "Hcc\\Umeng\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "hcc\\Umeng\\": "tests"
+            "Hcc\\Umeng\\": "tests"
         }
     },
      "minimum-stability": "stable"
