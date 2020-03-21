@@ -1,8 +1,8 @@
 <?php
 
-namespace  Zzl\Umeng;
-use Zzl\Umeng\UmengNotification;
-use Zzl\Umeng\Exception\UmengException;
+namespace  Hcc\Umeng;
+use Hcc\Umeng\UmengNotification;
+use Hcc\Umeng\Exception\UmengException;
 use Log;
 
 abstract class IOSNotification extends UmengNotification {

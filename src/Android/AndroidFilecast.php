@@ -1,8 +1,8 @@
 <?php
-namespace Zzl\Umeng\Android;
+namespace Hcc\Umeng\Android;
 
-use Zzl\Umeng\AndroidNotification;
-use Zzl\Umeng\Exception\UmengException;
+use Hcc\Umeng\AndroidNotification;
+use Hcc\Umeng\Exception\UmengException;
 use Log;
 
 class AndroidFilecast extends AndroidNotification {

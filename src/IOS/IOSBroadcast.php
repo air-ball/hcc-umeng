@@ -1,7 +1,7 @@
 <?php
-namespace Zzl\Umeng\IOS;
+namespace Hcc\Umeng\IOS;
 
-use Zzl\Umeng\IOSNotification;
+use Hcc\Umeng\IOSNotification;
 
 class IOSBroadcast extends IOSNotification {
 	function  __construct() {

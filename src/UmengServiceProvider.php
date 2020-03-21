@@ -1,9 +1,9 @@
 <?php
 
-namespace Zzl\Umeng;
+namespace Hcc\Umeng;
 
 use Illuminate\Support\ServiceProvider;
-use Zzl\Umeng\Pusher\UmengPusher;
+use Hcc\Umeng\Pusher\UmengPusher;
 
 class UmengServiceProvider extends ServiceProvider
 {

@@ -1,8 +1,8 @@
 <?php
-namespace Zzl\Umeng\IOS;
+namespace Hcc\Umeng\IOS;
 
-use Zzl\Umeng\IOSNotification;
-use Zzl\Umeng\Exception\UmengException;
+use Hcc\Umeng\IOSNotification;
+use Hcc\Umeng\Exception\UmengException;
 use Log;
 
 class IOSFilecast extends IOSNotification {

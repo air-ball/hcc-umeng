@@ -1,6 +1,6 @@
 <?php
 
-namespace Zzl\Umeng\Exception;
+namespace Hcc\Umeng\Exception;
 
 use Exception;
 
