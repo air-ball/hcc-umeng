@@ -11,14 +11,14 @@
 
 ```php
     'provider' => [
-       hcc\Umeng\UmengServiceProvider::class, 
+       Hcc\Umeng\UmengServiceProvider::class, 
     ],
 ```
 配置alias:
 
 ```php
     'aliases' => [
-        'Umeng' => hcc\Umeng\Facades\Umeng::class,
+        'Umeng' => Hcc\Umeng\Facades\Umeng::class,
     ],
 ```
 
@@ -35,13 +35,13 @@
 打开bootstrap目录下的app.php文件,注册provider:
 
 ```php
-    $app->register(hcc\Umeng\UmengServiceProvider::class);
+    $app->register(Hcc\Umeng\UmengServiceProvider::class);
 ```
 
 配置alias:
 
 ```php
-    class_alias('hcc\Umeng\Facades\Umeng','Umeng');
+    class_alias('Hcc\Umeng\Facades\Umeng','Umeng');
 ```
 
 生成配置文件:
