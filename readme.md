@@ -3,7 +3,7 @@
 
 ## 安装
 ```php
-    composer reuqire hcc/umeng   
+    composer require hcc/umeng   
 ```
   
 ## Laravel 5.* 配置
