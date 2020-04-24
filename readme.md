@@ -1,5 +1,5 @@
-# 基于umeng官方php sdk v1.4,支持Laravel5以及Lumen5 搬zzl/umeng的，只是在此基础上加了点东西
-
+# 基于umeng官方php sdk v1.4,支持Laravel5以及Lumen5
+## 搬zzl/umeng的，只是在此基础上加了点东西
 ## 安装
 ```php
     composer require hcc/umeng   
